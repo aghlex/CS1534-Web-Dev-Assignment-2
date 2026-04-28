@@ -14,6 +14,7 @@ h1 {
     font-style: normal;
     color: #4F3D35;
     line-height: 1;
+    text-align: center
 }
 
 h2 {
@@ -23,6 +24,8 @@ h2 {
     font-style: normal;
     color: #4F3D35;
     line-height: 1;
+    padding: 0.5rem;
+    text-align: center
 }
 
 h3 {
@@ -32,6 +35,16 @@ h3 {
     font-style: normal;
     color: #4F3D35;
     line-height: 1;
+    padding: 0.5rem
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1;
+    font-size: 1.2rem;
+    padding: 1rem
 }
 
 .banner-container {
@@ -55,4 +68,11 @@ h3 {
 .viewed-tab {
     color: #d11d5e;
     background: #CBB8A0;
+}
+
+#information-box {
+    margin: 1rem !important;
+    border: 0.15rem solid #9D8108;
+    background: #CBB8A0;
+    padding: 0.5rem;
 }
