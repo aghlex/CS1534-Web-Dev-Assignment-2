@@ -1,0 +1,58 @@
+﻿html {
+    font-size: 16px;
+    background: #ECB914;
+}
+
+body {
+    background: #ECB914;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: normal;
+    color: #4F3D35;
+    line-height: 1;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-style: normal;
+    color: #4F3D35;
+    line-height: 1;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: normal;
+    color: #4F3D35;
+    line-height: 1;
+}
+
+.banner-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid #9D8108;
+        background: #CBB8A0
+
+}
+
+.banner-item {
+        padding: 1rem;
+}
+
+.tabs {
+    background: #F6D579
+}
+
+.viewed-tab {
+    color: #d11d5e;
+    background: #CBB8A0;
+}
